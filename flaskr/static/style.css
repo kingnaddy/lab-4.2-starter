@@ -19,3 +19,28 @@ p {
     margin-left: 15px;
     background-color: lightblue;
 }
+
+img {
+    max-width: 300px;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+    padding: 10px;
+}
+
+li {
+    margin: 8px 0;
+}
+
+li a {
+    display: block;
+    padding: 8px 12px;
+    background-color: white;
+    border-radius: 4px;
+}
+
+li a:hover {
+    background-color: #add8e6;
+}
